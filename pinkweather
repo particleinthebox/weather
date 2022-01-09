@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/40d71n74d01/new-york/" data-label_1="AJAX" data-label_2="WEATHER" data-font="Fira Sans" data-icons="Climacons Animated" data-theme="beige" data-basecolor="#fcd5f5" data-accent="rgba(146, 6, 135, 0.03)" data-textcolor="#c1009f" data-highcolor="#c10051" data-lowcolor="#c10051" data-suncolor="#c1009f" data-mooncolor="#c1009f" data-cloudcolor="#c1009f" data-raincolor="#c1009f" data-snowcolor="#c1009f" >AJAX WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
